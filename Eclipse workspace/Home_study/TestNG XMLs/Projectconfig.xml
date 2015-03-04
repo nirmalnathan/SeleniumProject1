@@ -1,0 +1,17 @@
+ 	<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="finalProject">
+  <test verbose="2" name="Default test" >
+    <classes>
+      <class name="finalProject.T01"/>
+	  <class name="finalProject.T02"/>
+	  <class name="finalProject.T03"/>
+	  <class name="finalProject.T04"/>
+	  <class name="finalProject.T05"/>
+	  <class name="finalProject.T06"/>
+	  <class name="finalProject.T07"/>
+	  <class name="finalProject.T08"/>
+	  <class name="finalProject.T09"/>
+	</classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
